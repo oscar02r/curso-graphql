@@ -1,0 +1,23 @@
+{
+  "name": "curso-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscar02r/curso-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscar02r/curso-graphql/issues"
+  },
+  "homepage": "https://github.com/oscar02r/curso-graphql#readme",
+  "dependencies": {
+    "graphql": "^15.4.0"
+  }
+}
